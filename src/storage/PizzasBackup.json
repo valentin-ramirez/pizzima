@@ -1,0 +1,22 @@
+{ "pizzas": 
+    [ { "nom": "Originale Pepperoni",
+        "description": "vraiment délicieuse",
+        "image": "https://commande.dominos.fr/ManagedAssets/FR/product/PCHP/FR_PCHP_fr_menu_1846.jpg?v-1970171061",
+        "prix": "5€" },
+      { "nom": "Chick\"N Bacon BBQ",
+        "description": "miam",
+        "image": "https://commande.dominos.fr/ManagedAssets/FR/product/PCBB/FR_PCBB_fr_menu_2760.jpg?v1623384541",
+        "prix": "7€" },
+      { "nom": "HOT BACON BBQ",
+        "description": "ca pique",
+        "image": "https://commande.dominos.fr/ManagedAssets/FR/product/PHBC/FR_PHBC_fr_menu_2760.jpg?v-1470132529",
+        "prix": "8€" },
+      { "nom": "Diavola",
+        "description": "diaboliquement bon",
+        "image": "https://commande.dominos.fr/ManagedAssets/FR/product/PDIB/FR_PDIB_fr_menu_2639.jpg?v454231508",
+        "prix": "14€" },
+      { "nom": "Hypnotika",
+        "description": "elle va vous hypnotiser",
+        "image": "https://commande.dominos.fr/ManagedAssets/FR/product/PHYP/FR_PHYP_fr_menu_2047.jpg?v-698913448",
+        "prix": "500€" } ] }
+ 
