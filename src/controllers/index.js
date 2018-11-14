@@ -8,9 +8,10 @@ router.get("/", (req, res) => {
 
 router.post("/", (req, res) => {
   const { nom_pizza, description_pizza, image_pizza, prix_pizza } = req.body;
+  console.log("nnn")
   const pizzas = pizzaServices.ecrire(nom_pizza, description_pizza, image_pizza, prix_pizza);
   console.log("aaa")
-  res.render("hello");
+  res.render("index", pizzas);
 });
 
 export default router;
