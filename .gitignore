@@ -1,5 +1,4 @@
 .vscode/
-
-
+coverage/
 src.zip
 node_modules/
